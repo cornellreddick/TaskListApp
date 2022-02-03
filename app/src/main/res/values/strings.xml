@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tasklist</string>
+    <string name="numberOfTask">You have</string>
+    <string name="numberOfTask2">0</string>
+    <string name="numberOfTask3">tasks</string>
+    <string name="viewTaskbtn">View Tasks</string>
+    <string name="createTaskbtn">Create A Task</string>
+    <string name="upcomingTask">Upcoming Tasks</string>
+    <string name="upcomingTaskResults">Do Homework</string>
+    <string name="upcomingTaskDate">02/02/2022</string>
+    <string name="upcomingTaskStatus">High</string>
+</resources>
